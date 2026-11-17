@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://iamknr.in"><img src="assets/banner.png" alt="Kailas Nath R. Agentic AI Consultant, Digital Marketing Trainer and Developer." width="100%"></a>
+  <a href="https://iamknr.in"><img src="assets/banner.png" alt="Kailas (KNR) Nath R. Agentic AI Consultant, Digital Marketing Trainer and Developer." width="100%"></a>
 </p>
 
 I run ads for brands, build AI agents that do the boring parts of marketing, and teach both. When a job gets repetitive, I write code for it. India.
